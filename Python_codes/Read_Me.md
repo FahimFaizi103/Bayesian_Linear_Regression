@@ -1,2 +1,2 @@
- - In this Jupyter notebook I provide a code for Linear regression using Sckikit-learn and Bayesian Linear regression from scratch.
+ - In this Jupyter notebook I provide a code for Linear regression using Scikit-learn and Bayesian Linear regression from scratch.
  - You can carry out Bayesian Linear regression by either using the Python inbuilt function to sample from a multivariate Gaussian posterior or use Metropolis-Hastings MCMC, comment out appropriately.
